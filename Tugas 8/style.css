@@ -1,0 +1,28 @@
+body {
+  background-image: url("Stupa_Borobudur.jpg");
+}
+.satu {
+  background-image: url("avocado.jpg");
+  background-repeat: repeat-y;
+  background-color: white;
+  background-size: 40%;
+  color : blue;
+  text-align: right;
+  font-size: 30px;
+  font-weight: bold;
+  overflow: scroll;
+  width: 1200px;
+  height: 550px;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-style: solid;
+  border-color: black;
+}
+.dua{
+  color: green;
+  text-align: left;
+}
+.tiga{
+  color: red;
+  margin-right: 20px;
+}
